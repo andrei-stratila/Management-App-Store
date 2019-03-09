@@ -1,0 +1,2 @@
+Tema.Customer
+Tema.Observer
